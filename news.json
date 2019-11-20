@@ -1,0 +1,78 @@
+[
+  {
+    "class": "synthesize",
+    "name": "総合",
+    "news": [
+      {
+        "image": "http://"
+      }
+    ]
+  },
+  {
+    "class": "general",
+    "name": "一般",
+    "news": [
+      {
+        "headline": "「ネットが社会を分断」は不正解、１０万人の調査結果が明かす...",
+        "url": "https://this.kiji.is/569324699006485601",
+        "date": "2019/11/20 08:07",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/c4b4a9b1bbc4541fd0f69f888b52b50e28e42a39/height=280;version=1;width=400/https%3A%2F%2Fnordot-res.cloudinary.com%2Fc_fill%2Cw_800%2Ch_400%2Cg_faces%2Cf_auto%2Cq_auto%3Aeco%2Fch%2Fimages%2F569323555434316897%2Forigin_1.jpg",
+        "body": "読むに堪えない罵詈雑言がはびこるインターネットの世界。意見や表現をめぐり「炎上」という言葉が目立つようになって久しい。自由にものを言えるはずのネット上では、SNSなどを通した過激な意見同士の殴り合いが...",
+        "score": 344
+      },
+      {
+        "headline": "「ゆるキャン△」TVドラマ化！志摩リン役は福原遥、なでしこ役は...",
+        "url": "https://natalie.mu/comic/news/356098",
+        "date": "2019/11/20 06:09",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/2ba47e7eb21738c73ea77bfd1b68261e851deabf/height=280;version=1;width=400/https%3A%2F%2Fogre.natalie.mu%2Fmedia%2Fnews%2Fcomic%2F2017%2F0624%2Fyurukyan1.jpg%3Fimwidth%3D750",
+        "body": "あfろ「ゆるキャン△」のTVドラマ化が決定。テレビ東京・テレビ大阪・テレビ愛知にて2020年1月9日、BSテレ東にて1月14日に放送がスタートする。「ゆるキャン△」は1人でキャンプをするのが好きな女子高生・志摩リンと、キャンプ初心者の各務...",
+        "score": 438
+      }
+    ]
+  },
+  {
+    "class": "society",
+    "name": "世の中",
+    "news": []
+  },
+  {
+    "class": "international",
+    "name": "国際",
+    "news": []
+  },
+  {
+    "class": "politics",
+    "name": "政治・経済",
+    "news": []
+  },
+  {
+    "class": "life",
+    "name": "暮らし",
+    "news": []
+  },
+  {
+    "class": "sports",
+    "name": "スポーツ",
+    "news": []
+  },
+  {
+    "class": "entertainment",
+    "name": "エンタメ",
+    "news": []
+  },
+  {
+    "class": "technology",
+    "name": "テクノロジー",
+    "news": []
+  },
+  {
+    "class": "it",
+    "name": "IT",
+    "news": []
+  },
+  {
+    "class": "culture",
+    "name": "サブカルチャー",
+    "news": []
+  }
+]
