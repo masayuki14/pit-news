@@ -4,7 +4,20 @@
     "name": "総合",
     "news": [
       {
-        "image": "http://"
+        "url": "",
+        "headline": "",
+        "date": "2019/11/",
+        "body": "...",
+        "image": "",
+        "score": 0
+      },
+      {
+        "headline": "",
+        "url": "",
+        "date": "2019/11/",
+        "image": "",
+        "body": "...",
+        "score": 0
       }
     ]
   },
@@ -16,9 +29,33 @@
         "headline": "「ネットが社会を分断」は不正解、１０万人の調査結果が明かす...",
         "url": "https://this.kiji.is/569324699006485601",
         "date": "2019/11/20 08:07",
-        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/c4b4a9b1bbc4541fd0f69f888b52b50e28e42a39/height=280;version=1;width=400/https%3A%2F%2Fnordot-res.cloudinary.com%2Fc_fill%2Cw_800%2Ch_400%2Cg_faces%2Cf_auto%2Cq_auto%3Aeco%2Fch%2Fimages%2F569323555434316897%2Forigin_1.jpg",
-        "body": "読むに堪えない罵詈雑言がはびこるインターネットの世界。意見や表現をめぐり「炎上」という言葉が目立つようになって久しい。自由にものを言えるはずのネット上では、SNSなどを通した過激な意見同士の殴り合いが...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/c4b4a9b1bbc4541fd0f69f888b52b50e28e42a39/height=280;version=1;width=400/https%3a%2f%2fnordot-res.cloudinary.com%2fc_fill%2cw_800%2ch_400%2cg_faces%2cf_auto%2cq_auto%3aeco%2fch%2fimages%2f569323555434316897%2forigin_1.jpg",
+        "body": "読むに堪えない罵詈雑言がはびこるインターネットの世界。意見や表現をめぐり「炎上」という言葉が目立つようになって久しい。自由にものを言えるはずのネット上では、snsなどを通した過激な意見同士の殴り合いが...",
         "score": 344
+      },
+      {
+        "headline": "マイナンバーカード所有で最大5000円分のポイント付与へ | NHK...",
+        "url": "https://www3.nhk.or.jp/news/html/20191120/k10012183521000.html",
+        "date": "2019/11/20",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/61811194178b946c499f88ab0b4b08b06ce9e45c/height=280;version=1;width=400/https%3A%2F%2Fwww3.nhk.or.jp%2Fnews%2Fhtml%2F20191120%2FK10012183521_1911200107_1911200642_01_02.jpg",
+        "body": "マイナンバーカードを持っている人に買い物で使えるポイントを付与する新しい制度について、政府は１人当たり最大２万円までのキャッシュレス決済の利用に対して5000円分のポイントを付ける方針を固めました...",
+        "score": 244
+      },
+      {
+        "headline": "同じ服でもダサい男とおしゃれ男の論理的な差 | ファッション・...",
+        "url": "https://toyokeizai.net/articles/-/315058",
+        "date": "2019/11/24",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/76aaf850947a4ecd18359628d0b2b81040715661/height=280;version=1;width=400/https%3A%2F%2Ftoyokeizai.net%2Fmwimgs%2Fa%2F4%2F-%2Fimg_a4e29af03e677b3b043ea4c79849c712295196.jpg",
+        "body": "服の選び方がわからない……、自分のコーディネートが正しいのか間違っているのか不安……など多くの男性が持つファッションの悩みはすべて解決できるとファッションバイヤーのMBさんはいいます。2015年に刊行され話...",
+        "score": 1123
+      },
+      {
+        "headline": "昭恵氏からも推薦者　桜見る会の内訳、首相枠は１千人：朝日新...",
+        "url": "https://www.asahi.com/articles/ASMCN3580MCNUTFK005.html",
+        "date": "2019/11/20",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/7bd0812d1cea59f36d2f93bdb762e38ec181cfad/height=280;version=1;width=400/https%3A%2F%2Fwww.asahicom.jp%2Farticles%2Fimages%2FAS20191120000634_comm.jpg",
+        "body": "菅義偉官房長官は２０日午前の衆院内閣委員会で、国の税金を使い、首相が主催する内閣の公的行事として行われる「桜を見る会」の招待客をめぐる推薦者の内訳を明らかにした。安倍晋三首相の妻昭恵氏から推薦があったことも分かった...",
+        "score": 302
       },
       {
         "headline": "「ゆるキャン△」TVドラマ化！志摩リン役は福原遥、なでしこ役は...",
@@ -33,22 +70,186 @@
   {
     "class": "society",
     "name": "世の中",
-    "news": []
+    "news": [
+      {
+        "headline": "19年の出生数が急減　1～9月、5.6%減の67万人　　:日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXMZO52631090W9A121C1EE8000/",
+        "date": "2019/11/27",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/9ae54ce6ec8a3589de231203c3834cda128485ff/height=280;version=1;width=400/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXMZO5261506026112019000001-PB1.jpg%3Fauto%3Dformat%252Ccompress%26ch%3DWidth%252CDPR%26fit%3Dmax%26ixlib%3Djava-1.2.0%26s%3D660a8dbe0a556ead804b6fdb610ba824",
+        "body": "少子化のペースが加速している。厚生労働省が26日発表した人口動態統計（速報）によると、1～9月に生まれた子どもの数は67万3800人と前年同期に比べ5.6%減った。年間の出生数が5%を上回る減少となったのは直近で...",
+        "score": 502
+      },
+      {
+        "headline": "9時10分前を理解できない若手を生んだ日本語軽視のツケ：日経ビジネス電子版",
+        "url": "https://business.nikkei.com/atcl/seminar/19/00118/00049/",
+        "date": "2019/11/20",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/27d97290b255b85d83ed3d4691fb079703fc13d2/height=280;version=1;width=400/https%3A%2F%2Fbusiness.nikkei.com%2Fatcl%2Fseminar%2F19%2F00118%2F00049%2Ffb.jpg",
+        "body": "先日、講演会後の懇親会で、管理職が20代の社員たちの日本語能力に悩まされているという話で盛り上がった。 「9時スタートの研修会なのに1分前にドサドサと入ってきて、5分、10分の遅刻は当たり前。なので『9時10...",
+        "score": 661
+      },
+      {
+        "url": "https://www3.nhk.or.jp/news/html/20191122/k10012187301000.html",
+        "headline": "ＧＳＯＭＩＡ「協定終了を停止」韓国政府が日本政府に伝える | NHKニュース",
+        "date": "2019/11/23",
+        "body": "23日午前０時に失効が迫る日韓の軍事情報包括保護協定＝ＧＳＯＭＩＡについて、韓国政府が、日本政府に協定を終了するとした通告を停止する方針を伝えてきたことがわかりました。これにより、協定の効力は維持さ...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/35118fb604f7d47f5a33a12d95cf735623669368/height=280;version=1;width=400/https%3A%2F%2Fwww3.nhk.or.jp%2Fnews%2Fhtml%2F20191122%2FK10012187301_1911221645_1911221656_01_02.jpg",
+        "score": 685
+      },
+      {
+        "url": "https://researchmap.jp/jo34y74lc-1820559/?block_id=1820559&active_action=journal_view_main_detail&post_id=76675&comment_flag=1",
+        "headline": "東大情報学環大澤昇平氏の差別発言について - researchmap",
+        "date": "2019/11/25",
+        "body": "東京大学大学院情報学環特任准教授の大澤昇平氏（@Ohsaworks）が、11月20日にtwitter上で行った差別発言について書きます。この件については、11月24日に情報学環長名ですでに以下のような文書が出されています。...",
+        "image": "https://researchmap.jp/?action=common_download_user&upload_id=284118",
+        "score": 2115
+      },
+      {
+        "url": "https://www.sankei.com/affairs/news/191125/afr1911250027-n1.html",
+        "headline": "元勤務先の全データを消去　元システム管理者の男を逮捕　 - 産経ニュース",
+        "date": "2019/11/26",
+        "body": "業務を妨害する目的で元勤務先のパソコン内のデータを全て消去したとして、千葉県警サイバー犯罪対策課は２５日、電子計算機損壊等業務妨害の疑いで、東京都調布市多摩川の自称会社員、石橋典昭容疑者（６２）を...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/ed8731c22b25812d7f2ffdfabd6ea82f494a1ee2/height=280;version=1;width=400/https%3A%2F%2Fwww.sankei.com%2Fimages%2Fnews%2F191125%2Fafr1911250027-p1.jpg",
+        "score": 747
+      }
+    ]
   },
   {
     "class": "international",
     "name": "国際",
-    "news": []
+    "news": [
+      {
+        "url": "https://www.newsweekjapan.jp/stories/world/2019/11/post-13472.php",
+        "headline": "香港区議選：中国共産党は親中派の勝利を確信していた（今はパニック） | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト",
+        "date": "2019/11/27",
+        "body": "林鄭月娥行政長官（左）のボス、習近平も幻想を見せられていた（2017年7月1日）　REUTERS/Bobby Yip ＜香港デモ隊は一握りの「暴徒」で、その他の「声なき多数派」は親中派を支持している――それは中国が仕組んだ...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/676c1608d98a2a9a66d16970aa0ec48512ec59c1/height=280;version=1;width=400/https%3A%2F%2Fwww.newsweekjapan.jp%2Fstories%2Fassets_c%2F2019%2F11%2FHongKong-thumb-470xauto-175722.jpg",
+        "score": 469
+      },
+      {
+        "url": "https://www.newsweekjapan.jp/kankimura/2019/11/gsomia.php",
+        "headline": "踊り場に来た米韓同盟：GSOMIA破棄と破棄延期の真意 | 木村幹 | コラム | ニューズウィーク日本版 オフィシャルサイト",
+        "date": "2019/11/26",
+        "body": "＜土壇場でアメリカの圧力に屈するくらいなら、韓国はなぜGSOMIAを破棄するようなまねをしたのか＞ 2019年11月22日、韓国政府は期限切れぎりぎりのタイミングで、自らが前月に行った日韓GSOMIA破棄決定の「条件付き延期」を発表した...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/6b9ed65803614ad56048bc33af8b7b8471e60a3b/height=280;version=1;width=400/https%3A%2F%2Fwww.newsweekjapan.jp%2Fkankimura%2Fassets_c%2F2019%2F11%2Fkankimura-thumb-720x462-175519.jpg",
+        "score": 0
+      },
+      {
+        "url": "https://www3.nhk.or.jp/news/html/20191123/k10012188141000.html",
+        "headline": "トランプ大統領 香港人権法案への署名明言せず | NHKニュース",
+        "date": "2019/11/24",
+        "body": "アメリカのトランプ大統領は議会が可決した香港での人権をめぐる法案に関して「香港を支持しなければならないが、友人である習近平国家主席も支持している」と述べ、署名を明言しませんでした。中国との貿易交渉...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/b4fa9190ee43603e6a970e5f20eacd6c8099b777/height=280;version=1;width=400/https%3A%2F%2Fwww3.nhk.or.jp%2Fnews%2Fhtml%2F20191123%2FK10012188141_1911230528_1911230532_01_02.jpg",
+        "score": 89
+      },
+      {
+        "url": "https://www.newsweekjapan.jp/stories/world/2019/11/post-13418.php",
+        "headline": "中国は「ウイグル人絶滅計画」やり放題。なぜ誰も止めないのか？ | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト",
+        "date": "2019/11/20",
+        "body": "中国はウイグル人の抗議活動を徹底的に抑え込む構え（写真は13年7月、新彊ウイグル自治区のウルムチ市）REUTERS ＜中国政府によるウイグル人弾圧の実態を示す内部文書が明らかになった。100万人を強制収容して思...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/bc295ae8eb36b2d51b292eefc86350c673a855c9/height=280;version=1;width=400/https%3A%2F%2Fwww.newsweekjapan.jp%2Fstories%2Fassets_c%2F2019%2F11%2Fwebw191119-uighur-thumb-470xauto-174848.jpg",
+        "score": 567
+      },
+      {
+        "url": "https://www.afpbb.com/articles/-/3255199",
+        "headline": "ウイグル人に「情け容赦は無用」、中国政府の内部リークで新事実明らかに 米報道　写真3枚　国際ニュース：AFPBB News",
+        "date": "2019/11/18",
+        "body": "中国・新疆ウイグル自治区カシュガルで、モスクでの礼拝を終えたウイグル人らを見張る警察官（2017年6月26日撮影）。(c)Johannes EISELE / AFP 【11月17日 AFP】中国・新疆ウイグル自治区（Xinjiang Uighur Auton...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/c628f447d4497edfae65d0193d6a356e3b584946/height=280;version=1;width=400/https%3A%2F%2Fafpbb.ismcdn.jp%2Fmwimgs%2Fa%2F9%2F1000x%2Fimg_a9c96dd8ed0be97a101271b82cc26d44200177.jpg",
+        "score": 372
+      }
+    ]
   },
   {
     "class": "politics",
     "name": "政治・経済",
-    "news": []
+    "news": [
+      {
+        "url": "https://this.kiji.is/571969488707372129",
+        "headline": "反社会勢力、入っていたのだろうと菅氏 ｜ 共同通信",
+        "date": "2019/11/27",
+        "body": "2019/11/26 17:01 (JST)11/26 17:10 (JST)updated ©一般社団法人共同通信社 菅義偉官房長官は26日の記者会見で、首相主催の「桜を見る会」に反社会的勢力が出席していたとの指摘について「出席は把握していなかっ...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/21aff9d9611fc41b1cc1252bdb81b274610955ab/height=280;version=1;width=400/https%3A%2F%2Fnordot-res.cloudinary.com%2Fc_limit%2Cw_200%2Ch_200%2Cf_auto%2Cq_auto%3Aeco%2Fch%2Funits%2F39166665832988672%2Fprofile_7.png",
+        "score": 702
+      },
+      {
+        "url": "https://president.jp/articles/-/30855",
+        "headline": "若者が日本酒を飲まなくなったこれだけの理由 日本酒の消費量はピークの3分の1に | PRESIDENT Online（プレジデントオンライン）",
+        "date": "2019/11/24",
+        "body": "日本酒の消費量はピーク時の3分の1にまで落ちた 獺祭、黒龍、新政、飛露喜、十四代、ちょっと前なら、八海山、久保田、越乃寒梅、剣菱……と日本酒好きならのどが鳴る銘柄ばかり。日本酒ファンでなくとも一度は聞い...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/d077511154fc1ce02fc5e8633aced10be0a1838a/height=280;version=1;width=400/https%3A%2F%2Fpresident.ismcdn.jp%2Fmwimgs%2F6%2F8%2F1024wmn%2Fimg_681e45bc0f42f25a390e2c656c294a6a998412.jpg",
+        "score": 450
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXMZO52437940R21C19A1SHA000/",
+        "headline": "つみたてNISA延長へ　いつ始めても非課税20年　　:日本経済新聞",
+        "date": "2019/11/22",
+        "body": "政府・与党は積み立て型の少額投資非課税制度（つみたてNISA）について、非課税で積み立てられる期限を延長する。現行では最長で2037年末までだが、原則としていつから始めても20年間、非課税になるよう改める。...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/6a86b1ec09d8387f8677a01dd8ec2da64a207de8/height=280;version=1;width=400/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXMZO3496943004092018000009-PB1.jpg%3Fauto%3Dformat%252Ccompress%26ch%3DWidth%252CDPR%26fit%3Dmax%26ixlib%3Djava-1.2.0%26s%3D46ab89b1ff4712ec5c0255748b450ed9",
+        "score": 437
+      },
+      {
+        "url": "https://bunshun.jp/articles/-/15611",
+        "headline": "「目的は沢尻エリカの弱みを握り、脱がせてカネにすることだった」――元夫・高城剛氏が語っていた薬物問題の“真相” | 文春オンライン",
+        "date": "2019/11/21",
+        "body": "「そのようなことはしていない、と私は信じている。 その一言につきます」 先週号（2012年5月31日号）の週刊文春スクープを受け、映画「ヘルタースケルター」の蜷川実花監督 （39）は同映画のPRキャンペーンの会...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/7c7c4d1060a307b15cee9375e3dac57480c1846a/height=280;version=1;width=400/https%3A%2F%2Fbunshun.jp%2Fmwimgs%2Fa%2F8%2F-%2Fimg_a8c1b941f3cef5d69be7a738468f9298239584.jpg",
+        "score": 1018
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXMZO52202780V11C19A1000000/",
+        "headline": "覗かれる株注文データ　高速取引、個人に先回り　　:日本経済新聞",
+        "date": "2019/11/18",
+        "body": "株の売買注文を出したら、何者かに瞬時に先回りされている――。個人投資家からこんな声が上がるようになったのは、つい最近のことだ。そしてその不満は、ネット証券最大手のSBI証券のユーザーからのものだ。市場で...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/913aacfd1de139e290d8b26cbc0d2245568a8c14/height=280;version=1;width=400/https%3A%2F%2Farticle-image-ix.nikkei.com%2Fhttps%253A%252F%252Fimgix-proxy.n8s.jp%252FDSXMZO5039398030092019I00002-PB1.jpg%3Fauto%3Dformat%252Ccompress%26ch%3DWidth%252CDPR%26fit%3Dmax%26ixlib%3Djava-1.2.0%26s%3D5e37d33aeadd172d42c175ded2e7cf98",
+        "score": 452
+      }
+    ]
   },
   {
     "class": "life",
     "name": "暮らし",
-    "news": []
+    "news": [
+      {
+        "url": "https://www.buzzfeed.com/jp/naokoiwanaga/jinseikaigi-poster",
+        "headline": "「患者にも家族にも配慮がない」「誤解を招く」　厚労省の「人生会議」PRポスターに患者ら猛反発",
+        "date": "2019/11/27",
+        "body": "人生の最終段階でどのような対応をしてもらうことを望むのか、家族ら大事な人たちと話し合っておくことに、「人生会議」と愛称をつけた厚労省。 その「人生会議」を広めようと作られ、11月25日に公表されたPRポス...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/b80cfe9751b6dd7f5cb3b69f73b488f530045ac4/height=280;version=1;width=400/https%3A%2F%2Fimg.buzzfeed.com%2Fbuzzfeed-static%2Fstatic%2F2019-11%2F26%2F7%2Fcampaign_images%2F35acf4252752%2Fpr-2-3106-1574755123-7_dblbig.jpg",
+        "score": 383
+      },
+      {
+        "url": "https://togetter.com/li/1431879",
+        "headline": "結婚して10年たつお父さんが押し入れに作った自分だけの素敵な居場所がこちら「秘密基地感がたまらない」 - Togetter",
+        "date": "2019/11/19",
+        "body": "#せつないエンジニア図鑑 結婚して10年たつワイが望んだものはお洒落なデスクでもハイスペックPCでもなく、一人物思いにふけることができる場所だった。今年もこの狭い押し入れで冬を越す。 意気込みは毎年同じ。...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/ce924a99eca4b69523db484f4ac1bad35c9684f6/height=280;version=1;width=400/http%3A%2F%2Fpimg.togetter.com%2Ffeca824b3992a4b1a9b81acdfe5d0f3bedcbfa42%2F68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f454a6a6f413733553041554d4b67472e6a70673a6c61726765%3Fw%3D1200%26h%3D630%26t%3Dc",
+        "score": 438
+      },
+      {
+        "url": "https://ryohin-keikaku.jp/news/2019_1121.html",
+        "headline": "無印良品 コオロギせんべい　開発のお知らせ | ニュースリリース | 株式会社良品計画",
+        "date": "2019/11/22",
+        "body": "無印良品を企画、開発する株式会社良品計画（東京都豊島区／代表取締役社長 松﨑 曉）は、2020年春に、「コオロギせんべい」を無印良品の一部店舗とネットストアで発売します。 世界中の様々な国・地域において「...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/6e48c8814620b085228af8ca8431d46d28120b08/height=280;version=1;width=400/https%3A%2F%2Fryohin-keikaku.jp%2Ftopimg%2Fci.png",
+        "score": 605
+      },
+      {
+        "url": "https://www3.nhk.or.jp/news/html/20191115/k10012178851000.html",
+        "headline": "扉付きベビーベッドで赤ちゃん死亡 消費者庁など注意呼びかけ | NHKニュース",
+        "date": "2019/11/16",
+        "body": "下に収納のための扉がついた木製のベビーベッドで、扉の金具が外れて赤ちゃんが木枠の間に挟まれ、死亡するなどの事故が相次いだとして、消費者庁などが注意を呼びかけています。 国民生活センターが同じタイプの...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/2664f5b16227924517e1cd6c5f2c0608e907e3ac/height=280;version=1;width=400/https%3A%2F%2Fwww3.nhk.or.jp%2Fnews%2Fhtml%2F20191115%2FK10012178851_1911151636_1911151639_01_04.jpg",
+        "score": 295
+      },
+      {
+        "url": "https://www.hotpepper.jp/mesitsu/entry/y-ricopin/2019-00072",
+        "headline": "「花椒豚」はビールが恐ろしいほどにすすむので、気軽に家飲みを【山本リコピン】 - メシ通 | ホットペッパーグルメ",
+        "date": "2019/11/12",
+        "body": "こんにちは、料理ブロガーの山本リコピンです。 ピリッと舌がしびれるような辛さが特徴の香辛料、中国産山椒の花椒。ここ最近は、そのしびれる辛さがブームとなり、“シビ辛”な料理もよく見かけるようになりました...",
+        "image": "https://cdn-ak-scissors.b.st-hatena.com/image/square/9a01581aee963efd2f3a35425b49869b1fa28c82/height=280;version=1;width=400/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FT%2FTEPPEI3%2F20191113%2F20191113183319.jpg",
+        "score": 517
+      }
+    ]
   },
   {
     "class": "sports",
