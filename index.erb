@@ -79,7 +79,7 @@
     </div>
 
     <main role="main" class="container">
-      <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded shadow-sm">
+      <div class="d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded shadow-sm title">
         <img class="mr-3" src="./icon.png" alt="" height="48" >
         <div class="lh-100">
           <h6 class="mb-0 text-white lh-100">Pit News</h6>
@@ -88,20 +88,18 @@
       </div>
 
       <% for category in categories do%>
-      <div class="my-3 p-3 bg-white rounded shadow-sm">
+      <section class="my-3 p-3 bg-white rounded shadow-sm <%= category['class'] %>">
         <h6 class="border-bottom border-gray pb-2 mb-0"><%= category['name'] %></h6>
 
         <% for item in category['news'] do %>
-        <div class="media text-muted pt-3">
+        <div class="media text-muted pt-3 news-content">
           <img style="background-size: cover; background-image: url('<%= item['image'] %>')" class="bd-placeholder-img mr-2 rounded" height="64" width="92">
-          <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+          <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray content-title">
             <strong class="d-block text-gray-dark">
               <a target="_blank" rel="noopener" href="<%= item['url']%>"><%= item['headline'] %></a>
             </strong>
-            <%= item['body']%>
-            <small class="d-block text-right">
-              <%= item['date']%>
-            </small>
+            <span class="content-body"><%= item['body']%></span>
+            <small class="d-block text-right content-date"><%= item['date']%></small>
           </p>
         </div>
         <% end %>
@@ -109,9 +107,9 @@
         <small class="d-block text-right mt-3">
           <a href="#">すべて表示</a>
         </small>
-      </div>
+      </section>
       <% end %>
-      
+
     </main>
 
 
