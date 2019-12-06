@@ -93,7 +93,7 @@
 
         <% for item in category['news'] do %>
         <div class="media text-muted pt-3 news-content">
-          <img style="background-size: cover; background-image: url('<%= item['image'] %>')" class="bd-placeholder-img mr-2 rounded" height="64" width="92">
+          <img src="<%= item['image'] %>" class="bd-placeholder-img mr-2 rounded" height="64" width="92">
           <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray content-title">
             <strong class="d-block text-gray-dark">
               <a target="_blank" rel="noopener" href="<%= item['url']%>"><%= item['headline'] %></a>
